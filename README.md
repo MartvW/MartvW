@@ -1,5 +1,5 @@
 ### Hey 👋 
-I'm Mart, a ![Leeftijd](https://www.calculator.net/age-calculator.html?today=04%2F30%2F2004&ageat=05%2F27%2F2021&x=89&y=16) year old Software Engineer student.
+I'm Mart, a Software Engineer student.
 
 #### 💻 PROGRAMMING LANGUAGES I UNDERSTAND 💻
 - C++
