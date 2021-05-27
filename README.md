@@ -1,5 +1,5 @@
 ### Hey 👋 
-I'm Mart, a ![Leeftijd](http://martw.epizy.com/hoeoud.php?i=30-04-2004) year old Software Engineer student.
+I'm Mart, a ![Leeftijd](https://www.timeanddate.com/date/durationresult.html?d1=30&m1=04&y1=2004&d2=27&m2=5&y2=2021) year old Software Engineer student.
 
 #### 💻 PROGRAMMING LANGUAGES I UNDERSTAND 💻
 - C++
