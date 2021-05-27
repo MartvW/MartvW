@@ -7,8 +7,7 @@ I'm Mart, a ![](http://martw.epizy.com/hoeoud.php?i=30-04-2004) year old Softwar
 - Javascript
 - PHP
 - SQL
-
-![](https://gpvc.arturio.dev/DustSwiffer)
+- 
 ### Languages on my GitHub page
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MartvW&theme=dark)
 
