@@ -1,5 +1,5 @@
 ### Hey 👋 
-I'm Mart, a ![](http://martw.epizy.com/hoeoud.php?i=30-04-2004) year old Software Engineer student.
+I'm Mart, a ![Leeftijd](http://martw.epizy.com/hoeoud.php?i=30-04-2004) year old Software Engineer student.
 
 #### 💻 PROGRAMMING LANGUAGES I UNDERSTAND 💻
 - C++
@@ -7,7 +7,7 @@ I'm Mart, a ![](http://martw.epizy.com/hoeoud.php?i=30-04-2004) year old Softwar
 - Javascript
 - PHP
 - SQL
-- 
+
 ### Languages on my GitHub page
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MartvW&theme=dark)
 
