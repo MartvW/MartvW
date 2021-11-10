@@ -2,8 +2,8 @@
 I'm Mart, a Software Engineer student.
 
 #### 💻 PROGRAMMING LANGUAGES I UNDERSTAND 💻
-- HTML/CSS 
-- Javascript
+- HTML / CSS 
+- JavaScript
 - PHP
 - React JS
 
