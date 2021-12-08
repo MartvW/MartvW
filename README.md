@@ -1,13 +1,8 @@
 ### Hey 👋 
 I'm Mart, a Software Engineer student.
 
-[My Portfolio](https://martvw.github.io/)
-
-#### 💻 PROGRAMMING LANGUAGES I UNDERSTAND 💻
-- HTML / CSS 
-- JavaScript
-- PHP
-- React JS
+#### 💻 MY PORTFOLIO 💻
+[](https://martvw.github.io/)
 
 #### 🌍 LANGUAGES OM MY GITHUB PAGE 🌍
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MartvW&theme=dark)
