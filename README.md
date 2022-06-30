@@ -1,7 +1,7 @@
 ### Hey 👋 
 I'm Mart, a Software Developer.
 
-#### [💻 MY PORTFOLIO 💻](https://martvanweeghel.nl/)
+#### [MARTVANWEEGHEL.NL](https://martvanweeghel.nl/)
 
 #### 🌍 LANGUAGES OM MY GITHUB PAGE 🌍
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MartvW&theme=dark)
