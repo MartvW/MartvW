@@ -1,5 +1,5 @@
 ### Hey 👋 
-I'm Mart, a Software Engineer student.
+I'm Mart, a Software Developer.
 
 #### [💻 MY PORTFOLIO 💻](https://martvanweeghel.nl/)
 
