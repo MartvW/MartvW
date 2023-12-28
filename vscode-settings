@@ -1,0 +1,41 @@
+{
+  "workbench.iconTheme": "vscode-icons",
+  "editor.fontSize": 16,
+  "git.enableSmartCommit": true,
+  "blade.format.enable": true,
+  "C_Cpp.vcFormat.space.withinInitializerListBraces": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "soruce.sortImports": "explicit"
+  },
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.singleQuote": true,
+  "javascript.format.semicolons": "insert",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "quokka.showStartViewOnFeatureRelease": false,
+  "jupyter.askForKernelRestart": false,
+  "gitlens.showWelcomeOnInstall": false,
+  "typescript.format.semicolons": "insert",
+  "typescript.inlayHints.parameterTypes.enabled": true,
+  "typescript.preferences.quoteStyle": "single",
+  "typescript.inlayHints.enumMemberValues.enabled": true,
+  "editor.inlineSuggest.enabled": true,
+  "github.copilot.enable": {
+    "*": false,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
+  },
+  "github.copilot.advanced": {},
+  "[css]": {
+    "editor.suggest.insertMode": "replace"
+  },
+  "javascript.preferences.quoteStyle": "single",
+  "liveshare.accessibility.soundsEnabled": false,
+  "audioCues.diffLineDeleted": "off",
+  "audioCues.onDebugBreak": "off",
+  "audioCues.volume": 0,
+  "editor.accessibilitySupport": "off",
+  "workbench.colorTheme": "Default Dark+"
+}
